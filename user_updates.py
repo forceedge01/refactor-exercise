@@ -2,7 +2,7 @@ import db
 import requests
 
 # Guidelines:
-# This code will not compile. Assume this is the working code there is behind the functionality in production and approach refactoring.
+# This code will not compile. Assume this is the working code behind an API in production and approach refactoring.
 # Write comments on the pull request with your feedback / suggestions.
 # Lookout for:
 # - Security
